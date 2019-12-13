@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>app.vue</p>
+    <router-view></router-view>
   </div>
 </template>
 
@@ -8,5 +8,4 @@
 export default {};
 </script>
 
-<style>
-</style>
+<style></style>
